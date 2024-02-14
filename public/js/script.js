@@ -7,10 +7,10 @@ const answers = [
     "Why are you being so cold?",
     "Maybe we can talk about it?",
     "I am not going to ask again!",
-    "Ok now this is hurting my feelings!",
+    "Ok now this is hurting booboo's feelings!",
     "You are now just being mean!",
     "Why are you doing this to me?",
-    "Please give me a chance!",
+    "Please give booboo a chance!",
     "I am begging you to stop!",
     "Ok, Lets just start over.."
 ]
